@@ -1,3 +1,6 @@
+"""
+Polls router urls rules.
+"""
 from django.urls import path
 
 from . import views
